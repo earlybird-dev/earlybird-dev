@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**earlybird-dev/earlybird-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages
 
-Here are some ideas to get you started:
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
